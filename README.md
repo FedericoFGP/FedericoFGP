@@ -1,6 +1,6 @@
 # ```Hey there, I’m Federico.```
 
-* I’m interested in **programming**, **Linux** and technologies in general.
+* I’m a Linux enthusiast interested in **programming** and technologies in general.
 * Currently i’m working as a **Python** back-end developer. 
 * Also i’m learning english, others frameworks and studying at the university.
 
