@@ -6,8 +6,8 @@
 
 
 <p align="left">
-  <a href="https://github.com/fgplastina#gh-dark-mode-only"><img width="400" src="https://github-readme-stats.vercel.app/api?username=fgplastina&show_icons=true&theme=nord&count_private=true">
-  <a href="https://github.com/fgplastina#gh-dark-mode-only"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgplastina&hide=html,scss,css&count_private=true&langs_count=4&layout=compact&theme=nord">
+  <a href="https://github.com/fgplastina#gh-dark-mode-only"><img width="450" src="https://github-readme-stats.vercel.app/api?username=fgplastina&show_icons=true&theme=nord&count_private=true">
+  <a href="https://github.com/fgplastina#gh-dark-mode-only"><img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgplastina&hide=html,scss,css&count_private=true&langs_count=4&layout=compact&theme=nord">
   <a href="https://github.com/fgplastina#gh-dark-mode-only"><img width="800" src="https://github-profile-trophy.vercel.app/?username=fgplastina&row=1&column=5&theme=nord">
 
   <a href="https://github.com/fgplastina#gh-light-mode-only"><img width="400" src="https://github-readme-stats.vercel.app/api?username=fgplastina&show_icons=true&theme=graywhite&count_private=true">
