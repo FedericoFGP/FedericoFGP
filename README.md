@@ -84,7 +84,14 @@
       </a>
     </p>
 </div>
-
+<div>
+  <h2>My portfolio</h2>
+  <p>
+    <a href="https://fgplastina.github.io/portfolio/">
+      https://fgplastina.github.io/portfolio/
+    </a>
+  </p>
+</div>
 <div>
   <h2>Find me on</h2>
   <p>
