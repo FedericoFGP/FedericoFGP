@@ -85,7 +85,7 @@
     </p>
 </div>
 <div>
-  <h2>My portfolio</h2>
+  <h2>Take a look to my terminal</h2>
   <p>
     <a href="https://fgplastina.github.io/portfolio/">
       https://fgplastina.github.io/portfolio/
